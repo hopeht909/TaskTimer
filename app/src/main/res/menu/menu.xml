@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:title="main"
+    android:id="@+id/main"
+    />
+    <item
+        android:title="add new task"
+        android:id="@+id/addNeq"
+        />
+    <item
+        android:title="View Tasks"
+        android:id="@+id/viewTask"
+        />
+</menu>
